@@ -1,2 +1,2 @@
-# portalhelper
+# PortalHelper
 Python project intended to help students manipulate their grades.
